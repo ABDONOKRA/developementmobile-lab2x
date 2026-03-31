@@ -21,10 +21,7 @@ L'objectif est de créer une application Android permettant de calculer le monta
 ## Captures d'écran
 | Interface de saisie | Résultat du calcul |
 | :---: | :---: |
-| 345
-| 1140dh
-
- |
+| 345 | 1140|
 
 ## Vidéo de démonstration
 *(Ajoutez ici le lien vers votre vidéo ou un GIF de démonstration)*
