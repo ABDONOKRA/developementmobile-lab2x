@@ -21,7 +21,9 @@ L'objectif est de créer une application Android permettant de calculer le monta
 ## Captures d'écran
 | Interface de saisie | Résultat du calcul |
 | :---: | :---: |
-| ![Interface](https://via.placeholder.com/200x400?text=Interface) | ![Calcul](https://via.placeholder.com/200x400?text=Resultat) |
+| <img width="620" height="718" alt="image" src="https://github.com/user-attachments/assets/4f688ad4-274c-454c-b7ff-02360b915646" />
+| ![Uploading image.png…]()
+ |
 
 ## Vidéo de démonstration
 *(Ajoutez ici le lien vers votre vidéo ou un GIF de démonstration)*
