@@ -25,7 +25,7 @@ L'objectif est de créer une application Android permettant de calculer le monta
 
 ## Vidéo de démonstration
 *(Ajoutez ici le lien vers votre vidéo ou un GIF de démonstration)*
-> [Regarder la démo vidéo](./demo.mp4)
+> [Regarder la démo vidéo] https://github.com/ABDONOKRA/developementmobile-lab2x/issues/1
 
 ## Structure du projet
 - `MainActivity.java` : Contient la logique de calcul et la gestion des événements.
